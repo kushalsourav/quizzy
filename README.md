@@ -1,7 +1,7 @@
 
 # Quizzy
 
-Quizzy is  a quiz website where you can have fun and test yourself how mmuch you know about related topics.
+Quizzy is  a quiz website where you can have fun and test yourself about related topics.
 
 
 ## Demo
