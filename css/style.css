@@ -24,14 +24,14 @@ body {
 }
 
 .card-vertical-md>.card-img {
-    height: 300px;
+    height: 18.75rem;
 }
 
 .card-img-1 {
     background-image: url('../img/got.jpg');
     background-size: cover;
     background-position: center top;
-    height: 300px;
+    height: 18.75rem;
 }
 
 .display-center {
@@ -43,7 +43,7 @@ body {
     background-image: url('../img/BB.png');
     background-size: cover;
     background-position: center;
-    height: 300px;
+    height: 18.75rem;
 }
 
 .rule-box {
@@ -57,7 +57,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 150px;
+    height: 9.5rem;
 }
 
 .card-body {
