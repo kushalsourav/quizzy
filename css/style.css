@@ -4,7 +4,7 @@ body {
 
 .container {
     padding: 2rem;
-    margin: 1rem 3rem 3rem 3rem;
+    margin: 1rem 3rem 3rem;
 }
 
 .navbar {
@@ -15,7 +15,7 @@ body {
 .input-icon {
     position: absolute;
     top: -5%;
-    padding: 0.625rem;
+    padding: 10px;
     color: var(--color-primary);
 }
 
@@ -68,7 +68,6 @@ body {
 
 .flex {
     display: flex;
-    flex-direction: row;
     align-items: center;
     justify-content: space-between;
 }
